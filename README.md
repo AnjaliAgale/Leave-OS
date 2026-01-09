@@ -11,6 +11,7 @@ The system is built with a strong focus on:
 User experience and clarity
 
 Role-based access control
+
 👤 Employee Experience
 
 From an employee’s perspective, the system prioritizes simplicity, clarity, and confidence.
