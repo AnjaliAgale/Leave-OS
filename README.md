@@ -11,13 +11,6 @@ The system is built with a strong focus on:
 User experience and clarity
 
 Role-based access control
-
-Data transparency
-
-Scalability for real-world organizational use
-
-By combining intuitive UI design with a robust backend architecture, LeaveManager ensures that leave workflows are efficient, auditable, and user-friendly.
-
 👤 Employee Experience
 
 From an employee’s perspective, the system prioritizes simplicity, clarity, and confidence.
