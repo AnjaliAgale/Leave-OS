@@ -53,29 +53,8 @@ LeaveManager is a full-stack web application designed to streamline employee lea
 
 ## 🚀 Running the Project Locally (Windows / PowerShell)
 
-### 📥 Clone the Repository
-powershell
-git clone <your-github-repo>
-cd Leave-Manager
+<img width="865" height="805" alt="image" src="https://github.com/user-attachments/assets/d2fec7a1-1e87-4b1f-a296-1462d8c1662e" />
 
-
-🔧 Backend Setup
-cd backend
-python -m venv venv
-venv\Scripts\Activate.ps1
-pip install -r requirements.txt
-python app.py
-
-
-Backend runs at: http://localhost:5000
-
-🎨 Frontend Setup (New Terminal)
-cd client
-npm install
-npm run dev
-
-
-Frontend runs at: http://localhost:5173
 
 <img width="1911" height="937" alt="image" src="https://github.com/user-attachments/assets/f55ef8f7-9ab8-4e50-91ca-bd130fb29568" />
 1️⃣ Registration Screen – “Join the Team”
