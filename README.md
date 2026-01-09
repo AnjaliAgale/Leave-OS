@@ -56,7 +56,8 @@ LeaveManager is a full-stack web application designed to streamline employee lea
 <img width="865" height="805" alt="image" src="https://github.com/user-attachments/assets/d2fec7a1-1e87-4b1f-a296-1462d8c1662e" />
 
 
-<img width="1911" height="937" alt="image" src="https://github.com/user-attachments/assets/f55ef8f7-9ab8-4e50-91ca-bd130fb29568" />
+
+#<img width="1911" height="937" alt="image" src="https://github.com/user-attachments/assets/f55ef8f7-9ab8-4e50-91ca-bd130fb29568" />
 1️⃣ Registration Screen – “Join the Team”
 
 This screen allows new users to create an account with minimal friction.
