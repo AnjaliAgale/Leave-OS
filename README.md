@@ -1,77 +1,63 @@
-# Leave-OS
-🗓️ LeaveManager – Employee Leave Management System
+# 🗓️ LeaveManager – Employee Leave Management System
 
 LeaveManager is a full-stack web application designed to streamline employee leave requests and administrative approvals. It provides a clean, role-based experience for employees and admins, enabling transparent leave tracking, efficient approvals, and better resource planning.
 
-✨ Key Features
-👤 Employee
+---
 
-Secure registration & login
+## ✨ Key Features
 
-Apply for different leave types with date validation
+### 👤 Employee
+- Secure registration & login
+- Apply for different leave types with date validation
+- View leave history with real-time status updates
+- Filter and search past leave requests
+- Delete pending leave requests
 
-View leave history with real-time status updates
+### 🛡️ Admin
+- Role-based admin login
+- View all employee leave requests
+- Approve or reject leave requests instantly
+- Visual leave calendar (heatmap) for conflict detection
+- Filter leaves by status, type, or employee
 
-Filter and search past leave requests
+### 📊 Smart Leave Heatmap
+- Color-coded leave visualization by leave type
+- Helps detect overlapping leaves
+- Enables better workforce planning and load balancing
 
-Delete pending leave requests
+---
 
-🛡️ Admin
+## 🧠 Design & UX Decisions
+- Minimal, distraction-free UI for quick actions
+- Clear visual feedback for approvals and rejections
+- Role-aware dashboards to reduce cognitive load
+- Status colors for instant recognition (Approved / Pending / Rejected)
 
-Role-based admin login
+---
 
-View all employee leave requests
+## 🛠️ Tech Stack
 
-Approve or reject leave requests instantly
+### Frontend
+- React + TypeScript
+- Vite
+- Tailwind CSS
+- React Query
 
-Visual leave calendar (heatmap) for conflict detection
+### Backend
+- Python (Flask)
+- Flask-Login (Authentication)
+- Flask-CORS
+- SQLite + SQLAlchemy
 
-Filter leaves by status, type, or employee
+---
 
-📊 Smart Leave Heatmap
+## 🚀 Running the Project Locally (Windows / PowerShell)
 
-Color-coded leave visualization by leave type
-
-Helps detect overlapping leaves
-
-Enables better workforce planning and load balancing
-
-🧠 Design & UX Decisions
-
-Minimal, distraction-free UI for quick actions
-
-Clear visual feedback for approvals and rejections
-
-Role-aware dashboards to reduce cognitive load
-
-Status colors for instant recognition (Approved / Pending / Rejected)
-
-🛠️ Tech Stack
-
-Frontend
-
-React + TypeScript
-
-Vite
-
-Tailwind CSS
-
-React Query
-
-Backend
-
-Python (Flask)
-
-Flask-Login (Authentication)
-
-Flask-CORS
-
-SQLite + SQLAlchemy
-
-🚀 Running the Project Locally (Windows / PowerShell)
-📥 Clone the Repository
+### 📥 Clone the Repository
+powershell
 git clone <your-github-repo>
 cd Leave-Manager
+
 
 🔧 Backend Setup
 cd backend
