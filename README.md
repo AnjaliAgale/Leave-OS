@@ -10,7 +10,7 @@ The system is built with a strong focus on:
 
 User experience and clarity
 
-Role-based access control
+Role-based access control.
 
 👤 Employee Experience
 
